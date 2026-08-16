@@ -393,7 +393,7 @@ footer {
     height: 280px;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 949px) {
 
     .hero-image {
         height: 280px;
